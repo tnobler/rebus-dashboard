@@ -1,5 +1,4 @@
-# React/Redux/Router Starter Project
+# React/Redux/Router Rebus Dashboard
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> Provided for the Team Members and Partners of [Rebus Capital](https://rebuscap.com/)
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
